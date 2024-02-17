@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudwa/Desktop/lazypredict/mlruns/0/a2bb275349994bf59006ccd08fb30888/artifacts
+end_time: 1707628493648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2bb275349994bf59006ccd08fb30888
+run_name: sneaky-foal-126
+run_uuid: a2bb275349994bf59006ccd08fb30888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707628490169
+status: 4
+tags: []
+user_id: sudwa

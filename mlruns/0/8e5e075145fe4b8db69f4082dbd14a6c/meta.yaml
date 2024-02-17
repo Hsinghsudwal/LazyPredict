@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudwa/Desktop/lazypredict/mlruns/0/8e5e075145fe4b8db69f4082dbd14a6c/artifacts
+end_time: 1707628493641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e5e075145fe4b8db69f4082dbd14a6c
+run_name: painted-kite-640
+run_uuid: 8e5e075145fe4b8db69f4082dbd14a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707628493457
+status: 4
+tags: []
+user_id: sudwa

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudwa/Desktop/lazypredict/mlruns/0/90dc80c14f0e4631a813cf728018f232/artifacts
+end_time: 1707627989605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90dc80c14f0e4631a813cf728018f232
+run_name: sneaky-penguin-667
+run_uuid: 90dc80c14f0e4631a813cf728018f232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707627982957
+status: 4
+tags: []
+user_id: sudwa

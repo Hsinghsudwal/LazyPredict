@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudwa/Desktop/lazypredict/mlruns/0/7f10327b8fbc4a6ab47799c2063b05c9/artifacts
+end_time: 1707628198142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f10327b8fbc4a6ab47799c2063b05c9
+run_name: entertaining-fly-935
+run_uuid: 7f10327b8fbc4a6ab47799c2063b05c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707628194462
+status: 4
+tags: []
+user_id: sudwa

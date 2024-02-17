@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudwa/Desktop/lazypredict/mlruns/0/f3ea2e412e9242468d2bb7337baf979f/artifacts
+end_time: 1707627989589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3ea2e412e9242468d2bb7337baf979f
+run_name: carefree-midge-890
+run_uuid: f3ea2e412e9242468d2bb7337baf979f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707627989079
+status: 4
+tags: []
+user_id: sudwa
